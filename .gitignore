@@ -1,0 +1,6 @@
+.DS_Store
+*.csv.bak
+kr_claims*.csv
+docs/
+dashboard_mockup.html
+dashboard_mockup_montage.html
